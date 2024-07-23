@@ -1,4 +1,4 @@
-Predicted tasks
+Integration With Floris
 =====
 
 .. _releases:

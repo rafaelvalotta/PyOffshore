@@ -28,4 +28,3 @@ Contents
    Integration With OpenTidal
    Using PyOffshore
    Examples
-   Advanced Examples

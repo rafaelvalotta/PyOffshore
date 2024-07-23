@@ -3,8 +3,8 @@ Usage
 
 .. _installation:
 
-Installation
-------------
+Introducing PyOffshore
+=====
 
 To use PyOffshore, first install it using pip:
 
