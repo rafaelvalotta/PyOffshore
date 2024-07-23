@@ -2,6 +2,7 @@ Welcome to PyOffshore documentation!
 ===================================
 
 **PyOffshore** is an open-source Python library to simulate offshore power plants, including:
+
 - Fixed-bottom offshore wind farms
 - Floating wind farms
 - Wave energy
