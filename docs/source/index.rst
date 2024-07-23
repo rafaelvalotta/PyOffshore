@@ -1,12 +1,13 @@
 Welcome to PyOffshore documentation!
 ===================================
 
-**PyOffshore** is an open-source Python library to simulate offshore power plants, including:
+**PyOffshore** is an open-source Python library to simulate and optimize offshore power plants, including:
 
 - Fixed-bottom offshore wind farms
 - Floating wind farms
 - Wave energy
 - Tidal energy
+- Collocated hybrid wind-wave-tidal
 
 The objective of PyOffshore is to simulate all these technologies in stand-alone mode or in hybrid systems. PyOffshore wraps some different existing open-source tools such as PyWake, Floris, OpenFast, OpenTidal, and others. 
 
