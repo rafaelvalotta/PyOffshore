@@ -21,10 +21,26 @@ Contents
 --------
 
 .. toctree::
+    :maxdepth: 1
+:caption: Introduction
 
-   Introducing PyOffshore
-   Integration With PyWake
-   Integration With Floris
-   Integration With OpenFast
-   Integration With OpenTidal
-   Examples
+    Introducing PyOffshore
+    Integration With PyWake
+    Integration With Floris
+    Integration With OpenFast
+    Integration With OpenTidal
+    Examples
+
+
+
+.. toctree::
+    :maxdepth: 1
+:caption: Examples
+    Offshore Wind in USA
+    Offshore Wind in Europe
+    Offshore Wind in Asia
+    Offshore Wind in South America
+    Hybrid Collocated Wind-Wave
+    Hybrid Collocated Floating Wind - Wave 
+    Hybrid Collocated Wind-Tidal
+
