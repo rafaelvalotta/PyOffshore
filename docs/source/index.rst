@@ -23,7 +23,7 @@ Contents
 .. toctree::
     Introducing PyOffshore
     Integration With PyWake
-    notebooks/PyWake_integration
+    PyWake_integration
     Integration With Floris
     Integration With OpenFast
     Integration With OpenTidal
