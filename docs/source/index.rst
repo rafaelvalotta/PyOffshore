@@ -28,10 +28,6 @@ Contents
     Integration With OpenFast
     Integration With OpenTidal
     Examples
-
-
-
-.. toctree::
     Offshore Wind in USA
     Offshore Wind in Europe
     Offshore Wind in Asia
