@@ -26,5 +26,4 @@ Contents
    Integration With Floris
    Integration With OpenFast
    Integration With OpenTidal
-   Using PyOffshore
    Examples
