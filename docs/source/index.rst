@@ -11,6 +11,25 @@ Welcome to PyOffshore documentation!
 
 The objective of PyOffshore is to simulate all these technologies in stand-alone mode or in hybrid systems. PyOffshore wraps some different existing open-source tools such as PyWake, Floris, OpenFast, OpenTidal, and others. 
 
+How to Cite
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PyOffshore v0.0.1
+
+`Rafael Valotta Rodrigues. (2024, December).
+PyOffshore: Open-source Python library to simulate and optimize offshore power plants
+
+.. code-block:: python
+
+	@article{
+    	    pyoffshore,
+    	    title={PyOffshore: Open-source Python library to simulate and optimize offshore power plants},
+    	    author={Rafael Valotta Rodrigues},
+    	    url="https://github.com/rafaelvalotta/PyOffshore",
+    	    publisher={Wind Energy Systems Lab, University of Massachusetts Boston},
+    	    year={2024},
+    	    month={12}
+	    }
+..
 
 .. note::
 
